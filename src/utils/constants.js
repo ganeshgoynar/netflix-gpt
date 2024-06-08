@@ -12,3 +12,11 @@ export const API_OPTIONS ={
   };
 
   export const IMG_CDN_URL = "https://image.tmdb.org/t/p/w500";
+
+  export const BG_URL = "https://www.broadbentssolicitors.co.uk/wp-content/uploads/2023/01/netflix-web.jpg";
+
+  export const SUPPORTED_LANGUAGES = [
+    {identifer:"en",name:"English"},
+    {identifer:"hindi",name:"Hindi"},
+    {identifer:"spanish",name:"Spanish"}
+  ];
